@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ describeRoom()
+comment3.params=destination\ inputLength
+comment3.target=void\ move(java.lang.String,\ int)
+comment4.params=
+comment4.target=void\ danGuitar()
+numComments=5
